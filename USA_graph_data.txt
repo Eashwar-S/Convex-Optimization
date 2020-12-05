@@ -1,0 +1,15 @@
+Maryland,110,39.0458
+Texas,520,31.9686
+Colorado,2070,39.5501
+Montana,1040,46.8797
+California,880,36.7783
+Washington,520,47.7511
+Wisconsin,320,43.7844
+Nebraska,790,41.4925
+NorthDakota,580,47.5515
+SouthDakota,670,43.9695
+Nevada,1680,38.8026
+Alaska,580,64.2008
+Florida,30,27.6648
+Georgia,180,32.1656
+Pennsylvania,340,41.2033
